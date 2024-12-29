@@ -1,0 +1,6 @@
+C:\Users\Qursan\Desktop\c#\program1\program1\bin\Debug\program1.exe.config
+C:\Users\Qursan\Desktop\c#\program1\program1\bin\Debug\program1.exe
+C:\Users\Qursan\Desktop\c#\program1\program1\bin\Debug\program1.pdb
+C:\Users\Qursan\Desktop\c#\program1\program1\obj\Debug\program1.csprojResolveAssemblyReference.cache
+C:\Users\Qursan\Desktop\c#\program1\program1\obj\Debug\program1.exe
+C:\Users\Qursan\Desktop\c#\program1\program1\obj\Debug\program1.pdb
